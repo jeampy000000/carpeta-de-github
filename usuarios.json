@@ -1,0 +1,30 @@
+[
+    {
+        "identificacion": "101",
+        "nombre": "Carlos Perez",
+        "correo": "carlos@gmail.com",
+        "tipo": "Estudiante",
+        "carrera": "Ingenier\u00eda"
+    },
+    {
+        "identificacion": "102",
+        "nombre": "Ana Torres",
+        "correo": "ana@gmail.com",
+        "tipo": "Estudiante",
+        "carrera": "Medicina"
+    },
+    {
+        "identificacion": "201",
+        "nombre": "Luis G\u00f3mez",
+        "correo": "luis@gmail.com",
+        "tipo": "Profesor",
+        "especialidad": "Matem\u00e1ticas"
+    },
+    {
+        "identificacion": "202",
+        "nombre": "Marta Ruiz",
+        "correo": "marta@gmail.com",
+        "tipo": "Profesor",
+        "especialidad": "Programaci\u00f3n"
+    }
+]
